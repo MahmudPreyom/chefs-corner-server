@@ -184,7 +184,7 @@
         "experience": "7",
         "recipe": "50",
         "like": "77",
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. ir duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "recomanded_dishes": [
             {
                 "id": "1",
@@ -259,7 +259,7 @@
                 "name": "Tiramisu",
                 "description": "A classic Italian dessert made with ladyfingers, mascarpone cheese, and espresso",
                 "food_image": "https://media.istockphoto.com/id/542331706/photo/homemade-spicy-shrimp-tacos.jpg?b=1&s=170667a&w=0&k=20&c=WUZHzzMAuQur3xuh4NVWUWZ77_PQqf3yCkoZ5Ftsfnk=",
-                "rating": 4.9,
+                "rating": 4.5,
                 "ingredients": "Rice, Chicken, Mutton, Noodles, Masala"
             }
         ]
